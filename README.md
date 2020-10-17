@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bo Kamphues</h1>
 <h3 align="center">A passionate pipeline TD (student) from the Netherlands</h3>
 
-- 🔭 I’m currently working on [nfa-shotgun](https://github.com/nfa-vfxim/nfa-shotgun-configuration)
+- 🔭 I’m currently working on [bokamphues.nl](https://github.com/bkamphues/bokamphues.nl)
 
 - 🌱 I’m currently learning **Python, Typscript & Gatsby**
 
